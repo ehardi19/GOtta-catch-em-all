@@ -1,2 +1,2 @@
-# golang-catch-em-all
+# GOtta-catch-em-all
 Consuming PokeAPI
